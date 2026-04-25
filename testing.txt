@@ -2,7 +2,4 @@ Testing the workflow run trigger
 2
 
 asdfgdfg
-test workflow2
-test workflow3
-test workflow4
-test workflow7
+test workflow8
